@@ -6,3 +6,5 @@ primera implementacion
 segunda implementacion
 
 ssh implementacion
+
+hola lo modifique para ver nombres de config local
